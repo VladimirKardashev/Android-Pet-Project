@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="empty">
+        <item>*Empty*</item>
+        <item>*Empty*</item>
+
+    </string-array>
+    <string-array name="rock">
+        <item>RADIOROKS</item>
+        <item>Blues Rock Legends</item>
+    </string-array>
+
+    <string-array name="metal">
+        <item>Metal Voice</item>
+        <item>Radio Metal</item>
+        <item>MetalHead Radio</item>
+        <item>Death.FM</item>
+        <item>Brutal Existence Radio</item>
+    </string-array>
+
+
+    <string-array name="metal_website">
+        <item>www.metalvoice.net</item>
+        <item>www.radio-metal.com.ua</item>
+        <item>www.metalheadradio.com</item>
+        <item>death.fm</item>
+        <item>www.brutalexistenceradio.net</item>
+    </string-array>
+
+    <string-array name="rock_website">
+        <item>www.radioroks.ua</item>
+        <item>www.bluesrocklegends.com</item>
+    </string-array>
+
+
+</resources>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Internet Radio</string>
+    <string name="action_settings">actions</string>
+    <string name="exit">exit</string>
+    <string name="textInfo">Сейчас в эфире:</string>
+    <string name="Info">.......</string>
+    <string name="stream">Stream</string>
+    <string name="play">Play</string>
+    <string name="stop">Stop</string>
+    <string name="record">Record</string>
+
+
+
+</resources>

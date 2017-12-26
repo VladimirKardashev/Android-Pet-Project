@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string-array name="Metal_Stream">
+        <!--metal voice-->
+        <item>http://www.metalvoice.net:8000/listen</item>
+        <!--radio metal-->
+        <item>http://s3.radioheart.ru:8015/radio-metal</item>
+        <!--metalhead radio-->
+        <item>http://198.178.121.76:8012/stream</item>
+        <!--death.fm-->
+        <item>http://hi5.death.fm/;stream.nsv</item>
+        <!--brutal existence radio-->
+        <item>http://192.81.248.192:8038/;stream.nsv</item>
+    </string-array>
+
+    <string-array name="Rock_Stream">
+        <!--RADIOROKS-->
+        <item>http://online-radioroks.tavrmedia.ua/RadioROKS</item>
+        <!--BluesRockLegends-->
+        <item>http://listen.shoutcast.com/BluesRockLegends</item>
+    </string-array>
+
+</resources>
