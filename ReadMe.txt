@@ -1,5 +1,5 @@
-ѕриложение InternetRadio предоставл€ет возможность прослушивать интернет 
-радиостанции. »де€ в том, чтобы получить возможность прослушивани€ зарубежных 
-и не только инт. радиостанций в одном приложении. Ќа текущий момент реализованы
- два списка по стил€м. “акже в стиле "Metal" удалось реализовать отображение 
-возпроизводимой композиции в текущей момент времени "бегущей строкой". 
+InternetRadio app provides the ability to listen to the Internet
+radio stations. The idea is to be able to listen to foreign
+and not only int. radio stations in one application. Currently implemented
+  two stylesheets. Also in the style of "Metal" managed to implement the display
+reproducible composition at the current point in time "creeping line".
